@@ -34,6 +34,6 @@ You can access the Power BI dashboard through the following link:
 
 This healthcare dashboard in Power BI is a powerful tool for analyzing and visualizing inpatient and outpatient data. The use of DAX queries for data transformation and the intuitive user interface ensures that users can gain valuable insights with ease.
 
-For any questions or further assistance, please contact [mailto:chandresh00rajpoot@gmail.com](url).
+For any questions or further assistance, please contact [chandresh00rajpoot@gmail.com](url).
 
 ---
